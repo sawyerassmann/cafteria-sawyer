@@ -1,0 +1,52 @@
+body {
+    background-color: #5c2c00;
+    font-family: Arial, sans-serif;
+}
+header {
+    text-align: center;
+}
+h1 {
+    font-size: 45px;
+    color: #FFC080;
+}
+.titulo {
+    background-color: #FF9900;
+
+    padding-bottom: 0px;
+    padding-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+hr {
+    border-color: #FF9900;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.texto {
+    width: 50%;
+    font-size: 35px;
+}
+.imagem {
+    width: 50%;
+}
+.cardapio {
+    background-color: #FFC499; 
+    padding: 20px;
+}
+.proprietaria {
+    background-color: #FFA07A;
+    padding: 20px;
+    color: #FFF599; 
+}
+.contato {
+    background-color: #FFF0F0;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

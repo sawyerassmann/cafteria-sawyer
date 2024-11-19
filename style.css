@@ -1,0 +1,93 @@
+
+
+/* Cores */
+
+.cor-cafe-leite {
+    color: #964B00;
+    }
+    
+    .cor-cafe-forte {
+    background-color: #452B1F;
+    }
+    
+    .cor-marrom-claro {
+    background-color: #F5DEB3;
+    }
+    
+    .cor-branco-sujo {
+    background-color: #5a2901;
+    }
+    
+    .cor-leite-com-cafe {
+    color: #C9C4B5;
+    }
+    
+    .cor-cafe-com-leite {
+    background-color: #C9C4B5;
+    }
+    
+    /* Fontes */
+    
+    .fonte-titulo-principal {
+    font-size: 45px;
+    }
+    
+    .fonte-paragrafo-intro {
+    font-size: 35px;
+    }
+    
+    /* Estilos */
+    
+    .titulo-principal {
+    color: #964B00;
+    font-size: 45px;
+    }
+    
+    .linha-titulo {
+    border-bottom: 2px solid #C9C4B5;
+    }
+    
+    .container-intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+    
+    .paragrafo-intro {
+    width: 50%;
+    }
+    
+    .imagem-intro {
+    width: 40%;
+    height: 200px;
+    object-fit: cover;
+    }
+    
+    .secao-cardapio {
+    background-color: #F5DEB3;
+    padding: 20px;
+    }
+    
+    .secao-proprietaria {
+    background-color: #C9C4B5;
+    padding: 20px;
+    color: #F2F2F2;
+    }
+    
+    .rodape {
+    background-color: #F2F2F2;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    }
+    
+    .titulo-contato, .titulo-proprietaria {
+    color: #452B1F;
+    }
+    
+    .paragrafo-contato, .paragrafo-proprietaria {
+    color: #413e37;
+    }
+    
+    
